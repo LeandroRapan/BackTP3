@@ -1,1 +1,10 @@
-[{"id":null,"name":"producto 1","price":300,"stock":1000},{"id":null,"name":"producto 1","price":300,"stock":1000},{"id":null,"name":"producto 1","price":300,"stock":1000},{"id":null,"name":"producto 1","price":300,"stock":1000},{"id":null,"name":"producto 1","price":300,"stock":1000},{"id":null,"name":"producto 1","price":300,"stock":1000},{"id":null,"name":"producto 1","price":300,"stock":1000},{"id":null,"name":"producto 1","price":300,"stock":1000},{"name":"producto 1","price":1300,"stock":1000,"id":1}]
+[{"name": "Product A", "price": 1500, "stock": 500, "id": 1},
+{"name": "Product B", "price": 2000, "stock": 250, "id": 2},
+{"name": "Product C", "price": 1000, "stock": 1000, "id": 3},
+{"name": "Product D", "price": 500, "stock": 750, "id": 4},
+{"name": "Product E", "price": 3000, "stock": 100, "id": 5},
+{"name": "Product F", "price": 2500, "stock": 300, "id": 6},
+{"name": "Product G", "price": 800, "stock": 2000, "id": 7},
+{"name": "Product H", "price": 100, "stock": 5000, "id": 8},
+{"name": "Product I", "price": 5000, "stock": 50, "id": 9},
+{"name": "Product J", "price": 750, "stock": 1000, "id": 10}]
